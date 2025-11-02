@@ -1,6 +1,6 @@
 <!-- Profile README for Ikwuegbu Augustine Chizaram -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#3b82f6;">Ikwuegbu Augustine Chizaram</span></h1>
+<h2 align="center">👋 Hi, I'm <span style="color:#3b82f6;">Ikwuegbu Augustine Chizaram</span></h2>
 <h3 align="center">🚀 Software Developer | Frontend • Backend • Mobile</h3>
 <p align="center">A results-driven developer with a background in <strong>Computer Science</strong>, passionate about building scalable, high-performing applications that bring real-world ideas to life.</p>
 
@@ -11,7 +11,7 @@
 I’m a **results-driven Software Developer** with a deep passion for turning ideas into impactful solutions.  
 I specialize in **Frontend, Backend, and Mobile development**, and I’m committed to writing clean, efficient, and maintainable code.  
 
-I love building intuitive digital experiences — from sleek user interfaces to powerful backend systems — and constantly improving my craft through learning and collaboration.  
+I love building intuitive digital experiences from sleek user interfaces to powerful backend systems and constantly improving my craft through learning and collaboration.  
 
 ---
 
